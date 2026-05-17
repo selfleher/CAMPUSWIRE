@@ -1,0 +1,3 @@
+# Uploads Directory
+This directory stores user-uploaded files (images, etc.).
+It is automatically created by the News upload handler.
