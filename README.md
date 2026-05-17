@@ -4,7 +4,8 @@ CampusWire is a Smart Campus Information & Community Platform built using PHP, M
 
 The platform centralizes campus communication through announcements, events, blogs, discussions, internships, and notifications using secure role-based access.
 
-## Collaborators
+
+#live demo coming soon.
 
 This project was collaboratively developed by:
 
